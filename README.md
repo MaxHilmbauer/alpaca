@@ -1,4 +1,5 @@
 # Alpaca
-Alpaca is a modern indy client built on top of the indy logging system.
+An indy client built with vue
 
-## 
+## Get started
+To use alpaca visit the application [here](https://alpaca.com).
