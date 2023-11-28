@@ -1,0 +1,1 @@
+import{d as c,r as s,a as e,c as n,w as o,o as r,b as _,e as l}from"./index-ce289635.js";const i=c({__name:"LoginView",setup(p){return s({}),(m,d)=>{const t=e("v-col"),a=e("v-row");return r(),n(a,{justify:"center",class:"mt-md-16 pa-4"},{default:o(()=>[_(t,{cols:"6"},{default:o(()=>[l(" Hallo ")]),_:1})]),_:1})}}});export{i as default};

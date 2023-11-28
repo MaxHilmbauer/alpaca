@@ -13,7 +13,7 @@ const drawer = ref(true)
   <v-layout class="rounded rounded-md">
     <v-app-bar elevation="0" :border="true">
       <v-btn
-        @click="goToRoute('dashboard')"
+        @click="goToRoute('login')"
         variant="text"
         slim
         class="ml-2 rounded-lg font-weight-bold"
