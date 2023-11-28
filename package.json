@@ -9,11 +9,7 @@
     "build-only": "vite build",
     "type-check": "vue-tsc --noEmit -p tsconfig.app.json --composite false",
     "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs,.ts,.tsx,.cts,.mts --fix --ignore-path .gitignore",
-    "format": "prettier --write src/",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist",
-    "homepage": "https://maxhilmbauer.github.io/alpaca/"
-
+    "format": "prettier --write src/"
   },
   "dependencies": {
     "pinia": "^2.1.7",
